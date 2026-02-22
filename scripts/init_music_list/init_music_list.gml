@@ -14,6 +14,7 @@ function init_music_list()
 	music_add(BGM_MMZ_PAST,bgm_mmz_past);
 	music_add(BGM_SSZ_PRESENT,bgm_ssz_present);
 	music_add(BGM_SSHZ_PRESENT,bgm_sshz_A);
+	music_add(BGM_MMZ_BF, bgm_mmz_bf);
 	//Game jingles:
 	music_add(J_GAME_OVER, j_game_over, 0.00, 0.00, false);
 	music_add(J_INVINCIBLE, j_invincible, 0.00, 0.00, false);
@@ -42,4 +43,5 @@ function init_music_list()
 	#macro BGM_MIDNIGHTMZ 14
 	#macro BGM_SSZ_PRESENT 15
 	#macro BGM_SSHZ_PRESENT 16
+	#macro BGM_MMZ_BF 17
 	

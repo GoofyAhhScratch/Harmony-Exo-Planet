@@ -5,7 +5,7 @@ sound_sel = 0;
 
 //The lists
 zone_list = [
-    ["MINTY MOUNTAIN", rm_mmz_A, rm_mmz_B],
+    ["MINTY MOUNTAIN", rm_mmz_A, rm_mmz_B, rm_mmz_C],
     ["SAKURA STATION", rm_ssz_A],
 	["CHALLANGES", rm_chl_1, rm_chl2]
 	
