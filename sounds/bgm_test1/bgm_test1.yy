@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"bgm_test1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":1,
+  "compressionQuality":6,
+  "conversionMode":0,
+  "duration":106.148575,
+  "exportDir":"",
+  "name":"bgm_test1",
+  "parent":{
+    "name":"Stage Music",
+    "path":"folders/Sounds/Music/Stage Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_test1.wav",
+  "volume":1.0,
+}

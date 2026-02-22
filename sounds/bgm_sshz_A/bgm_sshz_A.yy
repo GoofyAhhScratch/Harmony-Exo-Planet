@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"bgm_sshz_A",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":141.11346,
+  "exportDir":"",
+  "name":"bgm_sshz_A",
+  "parent":{
+    "name":"Stage Music",
+    "path":"folders/Sounds/Music/Stage Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_sshz_A.mp3",
+  "volume":1.0,
+}

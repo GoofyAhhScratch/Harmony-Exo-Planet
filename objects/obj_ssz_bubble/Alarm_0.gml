@@ -1,0 +1,2 @@
+bubblepop = false
+visible = true

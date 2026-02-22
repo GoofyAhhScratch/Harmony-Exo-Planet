@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_timetravel",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_timetravel",
+  "parent":{
+    "name":"Time Travel",
+    "path":"folders/Scripts/Time Travel.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
