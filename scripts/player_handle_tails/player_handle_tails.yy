@@ -6,7 +6,7 @@
   "name":"player_handle_tails",
   "parent":{
     "name":"Misc",
-    "path":"folders/Scripts/Player Scripts/Misc.yy",
+    "path":"folders/Objects/Stage Objects/Common Objects/Springs/Scripts/Player Scripts/Misc.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

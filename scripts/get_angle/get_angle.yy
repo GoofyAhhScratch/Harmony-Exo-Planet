@@ -6,7 +6,7 @@
   "name":"get_angle",
   "parent":{
     "name":"Misc. Scripts",
-    "path":"folders/Scripts/Engine Scripts/Misc. Scripts.yy",
+    "path":"folders/Objects/Stage Objects/Common Objects/Springs/Scripts/Engine Scripts/Misc. Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

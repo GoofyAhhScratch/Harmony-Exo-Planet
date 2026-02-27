@@ -6,7 +6,7 @@
   "name":"init_music_list",
   "parent":{
     "name":"Init. Scripts",
-    "path":"folders/Scripts/Init. Scripts.yy",
+    "path":"folders/Objects/Stage Objects/Common Objects/Springs/Scripts/Init. Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

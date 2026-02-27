@@ -6,7 +6,7 @@
   "name":"surface_deform",
   "parent":{
     "name":"Visuals Scripts",
-    "path":"folders/Scripts/Engine Scripts/Visuals Scripts.yy",
+    "path":"folders/Objects/Stage Objects/Common Objects/Springs/Scripts/Engine Scripts/Visuals Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

@@ -6,7 +6,7 @@
   "name":"player_collision",
   "parent":{
     "name":"Movement",
-    "path":"folders/Scripts/Player Scripts/Movement.yy",
+    "path":"folders/Objects/Stage Objects/Common Objects/Springs/Scripts/Player Scripts/Movement.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

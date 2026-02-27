@@ -6,7 +6,7 @@
   "name":"shell_shit",
   "parent":{
     "name":"Debug Scripts",
-    "path":"folders/Scripts/Engine Scripts/Debug Scripts.yy",
+    "path":"folders/Objects/Stage Objects/Common Objects/Springs/Scripts/Engine Scripts/Debug Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

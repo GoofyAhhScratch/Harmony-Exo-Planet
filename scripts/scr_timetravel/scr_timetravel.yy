@@ -6,7 +6,7 @@
   "name":"scr_timetravel",
   "parent":{
     "name":"Time Travel",
-    "path":"folders/Scripts/Time Travel.yy",
+    "path":"folders/Objects/Stage Objects/Common Objects/Springs/Scripts/Time Travel.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

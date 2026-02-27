@@ -6,7 +6,7 @@
   "name":"reset_stage_data",
   "parent":{
     "name":"Stage Scripts",
-    "path":"folders/Scripts/Stage Scripts.yy",
+    "path":"folders/Objects/Stage Objects/Common Objects/Springs/Scripts/Stage Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

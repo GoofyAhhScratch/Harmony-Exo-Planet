@@ -6,7 +6,7 @@
   "name":"approach",
   "parent":{
     "name":"Math Scripts",
-    "path":"folders/Scripts/Engine Scripts/Math Scripts.yy",
+    "path":"folders/Objects/Stage Objects/Common Objects/Springs/Scripts/Engine Scripts/Math Scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
