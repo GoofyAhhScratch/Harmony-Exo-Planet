@@ -184,6 +184,7 @@
     {"name":"obj_global","order":1,"path":"objects/obj_global/obj_global.yy",},
     {"name":"obj_hud","order":1,"path":"objects/obj_hud/obj_hud.yy",},
     {"name":"obj_ice_rail","order":10,"path":"objects/obj_ice_rail/obj_ice_rail.yy",},
+    {"name":"obj_ice","order":11,"path":"objects/obj_ice/obj_ice.yy",},
     {"name":"obj_input","order":2,"path":"objects/obj_input/obj_input.yy",},
     {"name":"obj_invinciblespark","order":2,"path":"objects/obj_invinciblespark/obj_invinciblespark.yy",},
     {"name":"obj_level","order":1,"path":"objects/obj_level/obj_level.yy",},

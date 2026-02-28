@@ -1,5 +1,5 @@
 /// @description Draw the player
-if (place_meeting(x, y, obj_ice_rail) && state = !K_DIE && state = !K_DROWN && state = !K_HURT)
+if ((place_meeting(x, y, obj_ice_rail) || place_meeting(x, y, obj_ice)) && state != K_DIE && state != K_DROWN && state != K_HURT)
 {
     var frame = floor(current_time / 250) mod 2;
 
