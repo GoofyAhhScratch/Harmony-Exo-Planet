@@ -37,7 +37,7 @@
 	global.rings = 0;						//Global variable for rings
 	global.life = 3;						//Global variable for life
 	global.title_card = true;				//Flag that allows title card to be triggered, used in dev
-	global.emeralds = [false, false, false, false, false, false, false];				//List of active emeralds
+	global.timestones = [true, true, true, true, true, true, true];				//List of active timestones
 	global.col_tile = ["CollisionMain", "CollisionSemi", "CollisionA", "CollisionB"];	//List of collision layers
 	
 	//Act transition variables

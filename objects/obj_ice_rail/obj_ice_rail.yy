@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_timetravelpost_past",
+  "%Name":"obj_ice_rail",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_timetravelpost_past",
+  "name":"obj_ice_rail",
   "overriddenProperties":[],
   "parent":{
-    "name":"Time Travel",
-    "path":"folders/Objects/Time Travel.yy",
+    "name":"Minty Mountain Zone",
+    "path":"folders/Sprites/Stage Sprites/Minty Mountain Zone.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_timetravelpost_past",
-    "path":"sprites/spr_timetravelpost_past/spr_timetravelpost_past.yy",
+    "name":"spr_ice_rail",
+    "path":"sprites/spr_ice_rail/spr_ice_rail.yy",
   },
   "spriteMaskId":null,
   "visible":true,

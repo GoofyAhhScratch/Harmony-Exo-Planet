@@ -5,8 +5,9 @@ sound_sel = 0;
 
 //The lists
 zone_list = [
-    ["MINTY MOUNTAIN", rm_mmz_A, rm_mmz_B, rm_mmz_C],
+    ["MINTY MOUNTAIN", rm_mmz_1A, rm_mmz_1B, rm_mmz_1C],
     ["SAKURA STATION", rm_ssz_A],
+	["SERENE SHRINE", rm_sshz_A],
 	["CHALLANGES", rm_chl_1, rm_chl2]
 	
 ];
@@ -20,7 +21,7 @@ quotes = [
     "THAT ONE SILLY EXOPLANET",
     "I THINK I SAW A CHICKEN TODAY",
     "MARIO",
-    "MOR IS SIGMA"
+    "MOR IS NO LONGER SIGMA"
 ];
 
 // --- DATE CHECKING (GMS2 SAFE) ---

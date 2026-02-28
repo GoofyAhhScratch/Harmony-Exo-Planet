@@ -1,5 +1,7 @@
 function player_state_normal(){
 	//Add the idle timer
+	
+	
 	if(state == ST_NORMAL && ground_speed == 0 && !input_disable)
 	{
 		idle_timer++;
@@ -39,7 +41,6 @@ function player_state_normal(){
 			animation_set_duration(animator, (max(0, 8-abs(obj_player.ground_speed))));
 		}
 	}
-		
 	//Running animation:
 	if(abs(ground_speed) >= 6)
 	{
@@ -94,7 +95,10 @@ function player_state_normal(){
 			}
 		break;
 	}
-	
+		if state == ST_RAILGRIND
+		{
+			anim = ANIM_RAILGRIND
+		}	
 	//Ledge animation
 	if(!line_check(0, hitbox_h + 16, true) && !check_object(0, 0, 1, hitbox_h + 8, true) && ground && ground_speed == 0)
 	{

@@ -10,7 +10,7 @@
   "compression":1,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":1.833379,
+  "duration":1.8333787,
   "exportDir":"",
   "name":"sfx_spindash",
   "parent":{

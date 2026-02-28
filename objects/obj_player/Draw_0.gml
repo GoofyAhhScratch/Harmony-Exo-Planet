@@ -1,5 +1,13 @@
 /// @description Draw the player
-	if(state = ST_KNOCKOUT || invincible_timer mod 12 >= 6 || invincible_timer = 0 || invincible)
+if (place_meeting(x, y, obj_ice_rail) && state = !K_DIE && state = !K_DROWN && state = !K_HURT)
+{
+    var frame = floor(current_time / 250) mod 2;
+
+    // draw with scale so it flips
+    draw_sprite_ext(spr_sonic_rail_grind,frame,floor(x),floor(y),image_xscale,1, 0,c_white,1);
+}
+else
+if(state = ST_KNOCKOUT || invincible_timer mod 12 >= 6 || invincible_timer = 0 || invincible)
 	{
 		if(speed_shoes)
 		{

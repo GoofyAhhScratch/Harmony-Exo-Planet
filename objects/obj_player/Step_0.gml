@@ -1,5 +1,4 @@
 /// @description Player scripts
-	
 	//Step movement for sticking on the collision
 	steps = 1 + abs(floor(x_speed/13)) + abs(floor(y_speed/13));
 	

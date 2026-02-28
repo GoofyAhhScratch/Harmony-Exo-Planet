@@ -10,7 +10,7 @@
   "compression":1,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":1.415125,
+  "duration":1.4151248,
   "exportDir":"",
   "name":"sfx_release",
   "parent":{
