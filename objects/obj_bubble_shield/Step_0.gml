@@ -39,8 +39,14 @@
 			obj_player.state = ST_JUMP;
 			obj_player.jump_flag = true;
 			
+			if (x_speed < 5)
+			{
 			animation_play(obj_player.animator, ANIM_ROLL);
-			
+			}
+else
+{
+animation_play(obj_player.animator, ANIM_ROLL_FAST);
+		}
 			//Play sound
 			play_sound(sfx_bubble_jump)
 		}

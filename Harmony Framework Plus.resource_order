@@ -545,6 +545,7 @@
     {"name":"spr_sonic_peelout","order":10,"path":"sprites/spr_sonic_peelout/spr_sonic_peelout.yy",},
     {"name":"spr_sonic_push","order":16,"path":"sprites/spr_sonic_push/spr_sonic_push.yy",},
     {"name":"spr_sonic_rail_grind","order":22,"path":"sprites/spr_sonic_rail_grind/spr_sonic_rail_grind.yy",},
+    {"name":"spr_sonic_roll_fast","order":23,"path":"sprites/spr_sonic_roll_fast/spr_sonic_roll_fast.yy",},
     {"name":"spr_sonic_roll","order":3,"path":"sprites/spr_sonic_roll/spr_sonic_roll.yy",},
     {"name":"spr_sonic_run","order":4,"path":"sprites/spr_sonic_run/spr_sonic_run.yy",},
     {"name":"spr_sonic_skid","order":8,"path":"sprites/spr_sonic_skid/spr_sonic_skid.yy",},

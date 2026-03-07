@@ -8,6 +8,7 @@ function player_animation_list(){
 		animation_add(ANIM_RUN, spr_sonic_run, 2, 0, true, true);
 		animation_add(ANIM_MAXRUN, spr_sonic_peelout, 0, 0, true, true);
 		animation_add(ANIM_ROLL, spr_sonic_roll, 0, 0, true, true);
+		animation_add(ANIM_ROLL_FAST, spr_sonic_roll_fast, 0, 0, true, true);
 		animation_add(ANIM_LOOKDOWN, spr_sonic_lookdown, 0.4, 0, false, false);
 		animation_add(ANIM_LOOKUP, spr_sonic_lookup, 0.4, 0, false, false);
 		animation_add(ANIM_SPINDASH, spr_sonic_spindash, 0.6, 0, true, false);
@@ -33,6 +34,7 @@ function player_animation_list(){
 		animation_add(ANIM_RUN, spr_tails_run, 2, 0, true, true);
 		animation_add(ANIM_MAXRUN, spr_tails_maxrun, 1, 0, true, true);
 		animation_add(ANIM_ROLL, spr_tails_roll, 0.4, 0, true, false);
+		animation_add(ANIM_ROLL_FAST, spr_tails_roll, 0.4, 0, true, false);
 		animation_add(ANIM_LOOKDOWN, spr_tails_lookdown, 0.4, 0, false, false);
 		animation_add(ANIM_LOOKUP, spr_tails_lookup, 0.4, 0, false, false);
 		animation_add(ANIM_SPINDASH, spr_tails_spindash, 0.6, 0, true, false);
@@ -60,6 +62,7 @@ function player_animation_list(){
 		animation_add(ANIM_RUN, spr_knuckles_run, 0, 0, true, true);
 		animation_add(ANIM_MAXRUN, spr_knuckles_maxrun, 0, 0, true, true);
 		animation_add(ANIM_ROLL, spr_knuckles_roll, 0, 0, true, true);
+		animation_add(ANIM_ROLL_FAST, spr_knuckles_roll, 0, 0, true, true);
 		animation_add(ANIM_LOOKDOWN, spr_knuckles_lookdown, 0.4, 0, false, false);
 		animation_add(ANIM_LOOKUP, spr_knuckles_lookup, 0.4, 0, false, false);
 		animation_add(ANIM_SPINDASH, spr_knuckles_spindash, 0.6, 0, true, false);

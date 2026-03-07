@@ -13,7 +13,7 @@ function player_hitbox(){
 	hitbox_h = hitbox_normal[global.character][1];
 	
 	//Roll hitboxes
-	if(animation_is_playing(animator, ANIM_ROLL) || animation_is_playing(animator, ANIM_DROPDASH) || state == ST_JUMP)
+	if(animation_is_playing(animator, ANIM_ROLL) || animation_is_playing(animator, ANIM_ROLL_FAST) || animation_is_playing(animator, ANIM_DROPDASH) || state == ST_JUMP)
 	{
 		//Change the camera offset for rolling
 		if(ground || landed)

@@ -35,8 +35,15 @@ function player_state_roll(){
 		exit;
 	}
 	
-	//Change animation and speed
-	animation_play(animator, ANIM_ROLL);
+//Change animation depending on speed
+if (abs(obj_player.x_speed) >= 5)
+{
+    animation_play(animator, ANIM_ROLL_FAST);
+}
+else
+{
+    animation_play(animator, ANIM_ROLL);
+}
 	if(ground && character != CHAR_TAILS)
 	{
 		animation_set_duration(animator, floor(max(0, 4-abs(ground_speed))));

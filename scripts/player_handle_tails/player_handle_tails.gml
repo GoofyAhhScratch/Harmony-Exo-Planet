@@ -27,6 +27,9 @@ function player_handle_tails(){
 			case ANIM_ROLL:
 				appear = true;
 				animation_play(animator, TAIL_2);
+			case ANIM_ROLL_FAST:
+				appear = true;
+				animation_play(animator, TAIL_2);
 			
 				//Rotating tail
 				with(obj_player)
