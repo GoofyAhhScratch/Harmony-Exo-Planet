@@ -248,8 +248,8 @@
   ],
   "name":"rm_sshz_A",
   "parent":{
-    "name":"Stages",
-    "path":"folders/Rooms/Stages.yy",
+    "name":"Serene Shrine",
+    "path":"folders/Rooms/Stages/Serene Shrine.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
