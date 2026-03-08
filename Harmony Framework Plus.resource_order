@@ -238,6 +238,7 @@
     {"name":"rm_splash_screen","order":6,"path":"rooms/rm_splash_screen/rm_splash_screen.yy",},
     {"name":"rm_sshz_A","order":5,"path":"rooms/rm_sshz_A/rm_sshz_A.yy",},
     {"name":"rm_stage_select","order":7,"path":"rooms/rm_stage_select/rm_stage_select.yy",},
+    {"name":"rm_test","order":6,"path":"rooms/rm_test/rm_test.yy",},
     {"name":"rm_test1","order":2,"path":"rooms/rm_test1/rm_test1.yy",},
     {"name":"rm_titlescreen","order":8,"path":"rooms/rm_titlescreen/rm_titlescreen.yy",},
     {"name":"add_background","order":5,"path":"scripts/add_background/add_background.yy",},

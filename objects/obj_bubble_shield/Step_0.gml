@@ -13,6 +13,7 @@
 	if(obj_player.press_action && !obj_player.ground && obj_player.state == ST_JUMP 
 	&& shield_state == 0 && use_allow) 
 	{
+		
 		//Player double jump
 		obj_player.x_speed = 0;
 		obj_player.y_speed = 8;

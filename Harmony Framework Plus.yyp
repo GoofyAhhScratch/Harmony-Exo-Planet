@@ -311,6 +311,7 @@
     {"id":{"name":"rm_sshz_A","path":"rooms/rm_sshz_A/rm_sshz_A.yy",},},
     {"id":{"name":"rm_ssz_A","path":"rooms/rm_ssz_A/rm_ssz_A.yy",},},
     {"id":{"name":"rm_stage_select","path":"rooms/rm_stage_select/rm_stage_select.yy",},},
+    {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
     {"id":{"name":"rm_test1","path":"rooms/rm_test1/rm_test1.yy",},},
     {"id":{"name":"rm_titlescreen","path":"rooms/rm_titlescreen/rm_titlescreen.yy",},},
     {"id":{"name":"add_background","path":"scripts/add_background/add_background.yy",},},
@@ -775,6 +776,7 @@
     {"roomId":{"name":"rm_mmz_1C","path":"rooms/rm_mmz_1C/rm_mmz_1C.yy",},},
     {"roomId":{"name":"rm_mmz_1B","path":"rooms/rm_mmz_1B/rm_mmz_1B.yy",},},
     {"roomId":{"name":"rm_mmz_2A","path":"rooms/rm_mmz_2A/rm_mmz_2A.yy",},},
+    {"roomId":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[
