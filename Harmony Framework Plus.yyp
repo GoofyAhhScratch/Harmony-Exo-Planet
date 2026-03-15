@@ -137,9 +137,9 @@
     {"$GMFolder":"","%Name":"Arboreal Agate","folderPath":"folders/Tile Sets/Arboreal Agate.yy","name":"Arboreal Agate","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Collision Tileset","folderPath":"folders/Tile Sets/Collision Tileset.yy","name":"Collision Tileset","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Crystaline Cavern","folderPath":"folders/Tile Sets/Crystaline Cavern.yy","name":"Crystaline Cavern","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Serene Shrine","folderPath":"folders/Tile Sets/Serene Shrine.yy","name":"Serene Shrine","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Minty Mountain","folderPath":"folders/Tile Sets/Minty Mountain.yy","name":"Minty Mountain","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sakura Station","folderPath":"folders/Tile Sets/Sakura Station.yy","name":"Sakura Station","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Serene Shrine","folderPath":"folders/Tile Sets/Serene Shrine.yy","name":"Serene Shrine","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[

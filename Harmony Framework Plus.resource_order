@@ -115,9 +115,9 @@
     {"name":"Arboreal Agate","order":3,"path":"folders/Tile Sets/Arboreal Agate.yy",},
     {"name":"Collision Tileset","order":4,"path":"folders/Tile Sets/Collision Tileset.yy",},
     {"name":"Crystaline Cavern","order":7,"path":"folders/Tile Sets/Crystaline Cavern.yy",},
-    {"name":"Serene Shrine","order":8,"path":"folders/Tile Sets/Serene Shrine.yy",},
     {"name":"Minty Mountain","order":6,"path":"folders/Tile Sets/Minty Mountain.yy",},
     {"name":"Sakura Station","order":5,"path":"folders/Tile Sets/Sakura Station.yy",},
+    {"name":"Serene Shrine","order":8,"path":"folders/Tile Sets/Serene Shrine.yy",},
     {"name":"Timelines","order":6,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
